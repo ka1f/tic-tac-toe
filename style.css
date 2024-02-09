@@ -4,8 +4,12 @@
   }
   
   body {
-    background-color: #548687;
+    margin-top: 50px;
+    background-color: #203629;
     text-align: center;
+    color: #fff;
+    font-weight: 900;
+    font-size: larger;
   }
   
   .container {
@@ -33,6 +37,7 @@
     border: none;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
     font-size: 8vmin;
+    font-weight: 900;
     color: #b0413e;
     background-color: #ffffc7;
   }
